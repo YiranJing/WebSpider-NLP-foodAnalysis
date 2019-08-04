@@ -9,11 +9,11 @@ Goal: Help the operation of a new noodle restaruant, called 'Macaroni of Zhang g
 
 
 This repo shows all analysis using public data, mainly related to the following three parts:
-### Part 1: [Henan food Analysis](https://github.com/YiranJing/WebSpider-NLP/tree/master/FoodAnalysis_NLP/HehanProvince)
+### Part 1: [Henan food Analysis](https://github.com/YiranJing/WebSpider-NLP-foodAnalysis/new/master/FoodAnalysis_NLP)
 - Get information from meituan and dazhong app, incuding customer comments, average prive, tags etc (App Spider tech).
 - Try to understand Henan customers appetite, food aersions, and consumption ability of food (data visualization and NLP).
 
-### Part 2: [Macaroni of Zhang grandpa chain restaurants analysis](https://github.com/YiranJing/WebSpider-NLP/tree/master/FoodAnalysis_NLP/ZhangyeyeNoodleRestaurant)
+### Part 2: [Macaroni of Zhang grandpa chain restaurants analysis](https://github.com/YiranJing/WebSpider-NLP-foodAnalysis/tree/master/FoodAnalysis_NLP/ZhangyeyeNoodleRestaurant)
 There are more than 200 Macaroni of Zhang grandpa in China, and more than 10 of them on Meituan and Dazhong app.
 - Build Meituan AppSpider to collect information of 'Macaroni of Zhang grandpa' chain restaurants
 - Data visulaization and NLP model
